@@ -1,6 +1,6 @@
 # Robust Opinion Maximization
 
-This repository contains the official, anonymized source code to reproduce the algorithms, experiments, and figures presented in the paper Robust Opinion Maximization. 
+This repository contains the anonymized source code to reproduce the algorithms, experiments, and figures presented in the paper Robust Opinion Maximization. 
 
 We have included two mid-sized network datasets (`Epinions` and `Gowalla`) so the scripts can be tested immediately without needing to download external files. If needed tests on larger networks can be applied by downloading graphs from SNAP.
 
