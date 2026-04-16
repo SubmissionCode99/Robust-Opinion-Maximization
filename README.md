@@ -1,4 +1,4 @@
-# Robust Opinion Maximization: Reproducibility Repository
+# Robust Opinion Maximization
 
 This repository contains the official, anonymized source code to reproduce the algorithms, experiments, and figures presented in the paper Robust Opinion Maximization. 
 
